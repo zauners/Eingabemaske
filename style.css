@@ -1,0 +1,33 @@
+header {
+    margin-bottom: 150px;
+}
+
+body {
+    position: relative;
+    text-align: center;
+    font-family: Consolas, monaco, monospace;
+    background-color: beige;
+}
+
+table {
+    display: table;
+    width: 50%;
+    margin: 0 auto auto;
+}
+
+td {
+    border: 1px solid black;
+    padding: 50px 50px;
+    border-radius: 15px;
+}
+
+#submitter {
+    width: 250px;
+    height: 50px;
+    font-size: large;
+    margin-bottom: 50px;
+}
+
+input {
+    border-radius: 5px;
+}
